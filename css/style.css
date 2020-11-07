@@ -1,0 +1,121 @@
+/* head css */
+.head {
+	text-align:center;
+	background-color:steelblue;
+	
+}
+/* head css */
+
+/* menu css */
+.menu{
+	
+}
+/* menu css */
+
+/* facebook css */
+.facebook{
+overflow:hidden;
+
+}
+.facebook .fl{
+	width:70%;
+	float:left;
+}
+.facebook .fr{
+	width:30%;
+	float:right;
+}
+/* facebook css */
+
+
+/* youtube css */
+.youtube {
+	overflow: hidden;
+}
+.youtube .yl{
+	width:70%;
+	float:left;
+	
+}
+.youtube .yr{
+	width:30%;
+	float:right;
+}
+/* youtube css */
+
+
+/* instagram css */
+.instagram {
+	overflow: hidden;
+}
+.instagram .il{
+	width:70%;
+	float:left;
+	
+}
+.instagram .ir{
+	width:30%;
+	float:right;
+}
+/* instagram css */
+
+
+/* twitter css */
+.twitter {
+	overflow: hidden;
+}
+.twitter .tl{
+	width:70%;
+	float:left;
+	
+}
+.twitter .tr{
+	width:30%;
+	float:right;
+}
+/* twitter css */
+
+/* Pinterest css */
+.pinterest {
+	overflow: hidden;
+}
+.pinterest .pl{
+	width:70%;
+	float:left;
+	
+}
+.pinterest .pr{
+	width:30%;
+	float:right;
+}
+/* Pinterest css */
+
+/* Snapchat css */
+.snapchat {
+	overflow: hidden;
+}
+.snapchat .sl{
+	width:70%;
+	float:left;
+	
+}
+.snapchat .sr{
+	width:30%;
+	float:right;
+}
+/* Snapchat css */
+
+/* tiktok css */
+.tiktok {
+	overflow: hidden;
+}
+.tiktok .tl{
+	width:70%;
+	float:left;
+	
+}
+.tiktok .tr{
+	width:30%;
+	float:right;
+}
+/* tiktok css */
